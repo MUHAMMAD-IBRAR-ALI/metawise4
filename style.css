@@ -1,0 +1,24 @@
+.netherlands-flag {
+    width: 400px;
+    height: 200px;
+    border: 1px solid black;
+  }
+  
+  .netherlands-flag .red {
+    width: 100%;
+    height: 33.33%;
+    background-color: #FF0000;
+  }
+  
+  .netherlands-flag .white {
+    width: 100%;
+    height: 33.33%;
+    background-color: #FFFFFF;
+  }
+  
+  .netherlands-flag .blue {
+    width: 100%;
+    height: 33.33%;
+    background-color: #0000FF;
+  }
+  
